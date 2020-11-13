@@ -1,1 +1,1 @@
-# gan_mood_painter
+# GAN Mood Painter
